@@ -1,4 +1,4 @@
 
 ## Preview
 
-[![Resume Preview](resume.png)](https://fcarlosmonteiro.github.io/)
+[![Resume Preview](img/profile-example.png)](https://fcarlosmonteiro.github.io/)
