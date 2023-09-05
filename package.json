@@ -41,5 +41,9 @@
         "gulp-rename": "1.4.0",
         "gulp-sass": "4.0.2",
         "gulp-uglify": "3.0.1"
+    },
+    "scripts": {
+        "start": "gulp",
+        "lighthouse": "lighthouse https://fcarlosmonteiro.github.io --output=json --output-path=lighthouse-report.json"
     }
 }
