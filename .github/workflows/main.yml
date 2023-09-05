@@ -23,10 +23,11 @@ jobs:
 
     - name: Run Lighthouse CI
       run: lhci autorun
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use o segredo GITHUB_TOKEN que você criou
 
     - name: Upload report artifact
       uses: actions/upload-artifact@v2
       with:
         name: lighthouse-report
         path: ./lighthouse-ci/.lighthouseci
-
