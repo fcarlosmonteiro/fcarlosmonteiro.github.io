@@ -24,7 +24,7 @@ jobs:
     - name: Run Lighthouse CI
       run: lhci autorun
       env:
-        GITHUB_TOKEN: ${{ secrets.DEVOPS_TOKEN }} 
+        DEVOPS_TOKEN: ${{ secrets.DEVOPS_TOKEN }} 
 
     - name: Upload report artifact
       uses: actions/upload-artifact@v2
