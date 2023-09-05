@@ -1,3 +1,5 @@
+name: Lighthouse Report
+
 on:
   push:
     branches:
@@ -11,22 +13,15 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
+    - name: Run Lighthouse
+      uses: treosh/lighthouse-action@v3
       with:
-        node-version: 16
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Generate Lighthouse report
-      run: node run-lighthouse.js
-
-    - name: Generate Lighthouse report (NPM)
-      run: npm run lighthouse
+        url: http://fcarlosmonteiro.github.io/
+        format: json
+        outputPath: lighthouse-report.json
 
     - name: Upload report artifact
       uses: actions/upload-artifact@v2
       with:
         name: lighthouse-report
-        path: ./lighthouse-report
+        path: lighthouse-report.json
