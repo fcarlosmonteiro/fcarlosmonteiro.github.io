@@ -13,15 +13,20 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Run Lighthouse
-      uses: treosh/lighthouse-action@v3
+    - name: Install Node.js
+      uses: actions/setup-node@v2
       with:
-        url: http://fcarlosmonteiro.github.io/
-        format: json
-        outputPath: lighthouse-report.json
+        node-version: '16'
+
+    - name: Install LHCI CLI
+      run: npm install -g @lhci/cli@0.7.0
+
+    - name: Run Lighthouse CI
+      run: lhci autorun
 
     - name: Upload report artifact
       uses: actions/upload-artifact@v2
       with:
         name: lighthouse-report
-        path: lighthouse-report.json
+        path: ./lighthouse-ci/.lighthouseci
+
