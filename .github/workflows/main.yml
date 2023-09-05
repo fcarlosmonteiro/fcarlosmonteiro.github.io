@@ -1,4 +1,4 @@
-- name: Generate Lighthouse report
+name: Generate Lighthouse report
   run: node run-lighthouse.js
 
 on:
