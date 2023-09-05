@@ -1,6 +1,3 @@
-- name: Generate Lighthouse report
-  run: node run-lighthouse.js
-
 on:
   push:
     branches:
@@ -21,6 +18,9 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+
+    - name: Generate Lighthouse report
+      run: node run-lighthouse.js
 
     - name: Generate Lighthouse report
       run: npm run lighthouse
