@@ -1,0 +1,31 @@
+name: Lighthouse Report
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 14
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Generate Lighthouse report
+      run: npm run lighthouse
+
+    - name: Upload report artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: lighthouse-report
+        path: ./lighthouse-report
