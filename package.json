@@ -28,8 +28,7 @@
     "dependencies": {
         "lighthouse": "^8.3.0",
         "@fortawesome/fontawesome-free": "5.7.0",
-        "bootstrap": "4.3.1",
-        "jquery": "3.3.1",
+
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
