@@ -11,15 +11,15 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Install Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
-        node-version: '16'
+        node-version: '20'
 
     - name: Install LHCI CLI
-      run: npm install -g @lhci/cli@0.7.0
+      run: npm install -g @lhci/cli@0.12.x
 
     - name: Run Lighthouse CI
       run: lhci autorun
@@ -27,7 +27,7 @@ jobs:
         DEVOPS: ${{secrets.DEVOPS}} 
 
     - name: Upload report artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: lighthouse-report
         path: ./lighthouse-ci/.lighthouseci
