@@ -1,0 +1,798 @@
+{
+  "autor": "Francisco Carlos Monteiro Souza",
+  "total_publicacoes": 55,
+  "periodo": "2014-2025",
+  "publicacoes": [
+    {
+      "ano": 2025,
+      "mes": "novembro",
+      "titulo": "Sabiá: Um Chatbot de Inteligência Artificial Generativa para Suporte no Dia a Dia do Ensino Superior",
+      "tipo": "Preprint",
+      "evento_periodico": null,
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Guilherme Biava Rodrigues",
+        "Franciele Beal",
+        "Marlon Marcon",
+        "Rodolfo Adamshuk Silva",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2025,
+      "mes": "outubro",
+      "titulo": "Software Architecture Requirements for Procedural Content Generation in Digital Games: A Systematic Mapping",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXIV Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2025)",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Arthur Riuiti Pinheiro So",
+        "Alinne C. Corrêa Souza",
+        "José Augusto Fabri",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2025,
+      "mes": "julho",
+      "titulo": "Perspectivas e Desafios na condução de uma Fábrica de Software: Um Relato de Experiência",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Workshop sobre Educação em Computação",
+      "texto_completo": "nao_informado",
+      "link": null,
+      "autores": [
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza",
+        "Marlon Marcon",
+        "Rafael Alves P. de Oliveira"
+      ]
+    },
+    {
+      "ano": 2025,
+      "mes": "julho",
+      "titulo": "Influência das Fontes de Autoeficácia do TSCC na Escolha da Carreira por Estudantes do Ensino Superior de Computação",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Workshop sobre Educação em Computação",
+      "texto_completo": "nao_informado",
+      "link": null,
+      "autores": [
+        "Maria Korb",
+        "Jéssica Iara Pegorini",
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "dezembro",
+      "titulo": "Towards Role Definition in Agile AI-based System Development: Perspectives and Reflections",
+      "tipo": "Conference Paper",
+      "evento_periodico": "SBQS 2024: XXIII Brazilian Symposium on Software Quality",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza",
+        "Bruno Faustino Amorim",
+        "Thiago Cordeiro"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "dezembro",
+      "titulo": "Continuous Improvement of the Requirements Engineering Process in a R&D Project",
+      "tipo": "Conference Paper",
+      "evento_periodico": "SBQS 2024: XXIII Brazilian Symposium on Software Quality",
+      "texto_completo": "nao_informado",
+      "link": null,
+      "autores": [
+        "Luã Silva",
+        "Carlos Portela",
+        "Rodrigo Lisbôa Pereira",
+        "Heleno Fülber"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "novembro",
+      "titulo": "Investigating Student Dropout Risk in Higher Education through Machine Learning",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Pedro Mian Parra",
+        "Muriel de Souza Godoi",
+        "Francisco Carlos Monteiro Souza",
+        "Rafael Gomes Mantovani"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "novembro",
+      "titulo": "An Exploratory Analysis on Sociodemographics Features Importance For a Predictive Undergraduate Computing Students Dropout Model",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024)",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Vitor Gabriel B. Balsanello",
+        "Alinne C. Corrêa Souza",
+        "Thiago Cordeiro",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "novembro",
+      "titulo": "Integrando Práticas de Design Thinking no Ensino e Aprendizagem de Requisitos de Software: Um Relato de Experiência",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XIII Congresso Brasileiro de Informática na Educação (CBIE)",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Alinne C. Corrêa Souza",
+        "Maynara De Oliveira Walter",
+        "Francisco Carlos Monteiro Souza",
+        "Thiago Cordeiro"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "setembro",
+      "titulo": "Design and Evaluation of a Procedurally Generated Dungeon Game",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2024)",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Arthur Riuiti Pinheiro So",
+        "Alinne C. Corrêa Souza",
+        "Lincoln Magalhães Costa",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "setembro",
+      "titulo": "Developing Competitive Strategies for Legends of Runeterra using Genetic Algorithm",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2024)",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Ricardo A Balbinot",
+        "Lincoln Magalhães Costa",
+        "Alinne C. Corrêa Souza",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "setembro",
+      "titulo": "Automating Dungeon Level Design using Search-based Procedural Generation",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames 2024)",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Arthur Riuiti Pinheiro So",
+        "Alinne C. Corrêa Souza",
+        "Lincoln Magalhães Costa",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "julho",
+      "titulo": "Inter-Row Soybean Plantation Identification in Images to Support Automatic Alignment of a Weeder Machine",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Seminário Integrado de Software e Hardware",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Jailson Panizzon",
+        "André Roberto Ortoncelli",
+        "Alinne C. Correa Souza",
+        "Rafael Paes de Oliveira",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "maio",
+      "titulo": "An Exploratory Analysis on Gender-Related Dropout Students in Distance Learning Higher Education using Machine Learning",
+      "tipo": "Conference Paper",
+      "evento_periodico": "SBSI '24: XX Brazilian Symposium on Information Systems",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Gilmar Santos",
+        "Alinne Souza",
+        "Rafael Gomes Mantovani",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2024,
+      "mes": "janeiro",
+      "titulo": "PARALLEL TESTING IN BEHAVIOR DRIVEN DEVELOPMENT",
+      "tipo": "Chapter",
+      "evento_periodico": null,
+      "texto_completo": "nao_informado",
+      "link": null,
+      "autores": [
+        "Felipe Souza De Amorim",
+        "Rodolfo Adamshuk Silva",
+        "Lincoln Magalhães Costa",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "dezembro",
+      "titulo": "Explorando Padrões de Projetos em Sistemas baseados em Aprendizado de Máquina: Um estudo de Caso",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Escola Regional de Engenharia de Software",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Vitor Gabriel B. Balsanello",
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "novembro",
+      "titulo": "Ensino de Engenharia de Requisitos com apoio de uma ferramenta baseada em Metodologia Ágeis: Um Relato de Experiência",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Workshop de Informática na Escola",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Alinne C. Corrêa Souza",
+        "Francisco Carlos Monteiro Souza",
+        "André Roberto Ortoncelli",
+        "Lincoln Magalhães Costa"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "outubro",
+      "titulo": "Adaptação, Desenvolvimento e Implantação de uma API para Classificação de Qualidade de Carne com Aprendizado de Máquina: Um Relato de Experiência",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XX Congresso Latino-Americano de Software Livre e Tecnologias Abertas",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Vitor Gabriel B. Balsanello",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "agosto",
+      "titulo": "Multistage, Multiswarm Particle Swarm Optimization for Investment Portfolio Selection",
+      "tipo": "Conference Paper",
+      "evento_periodico": "2nd Brazilian Workshop on Artificial Intelligence in Finance",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Thales Felipe Dal Molim",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "junho",
+      "titulo": "A Score approach to identify the risk of students dropout: an experiment with Information Systems Course",
+      "tipo": "Conference Paper",
+      "evento_periodico": "SBSI '23: XIX Brazilian Symposium on Information Systems",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Robinson Crusoé Da Cruz",
+        "Renato Correa Juliano",
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "junho",
+      "titulo": "PMBOK Game II Um Jogo Educacional para Apoiar o Ensino de Gestão de Projetos de Software",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XXXI Workshop sobre Educação em Computação (WEI)",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Alinne C. Corrêa Souza",
+        "Francisco Carlos Monteiro Souza",
+        "Ricardo Vilela",
+        "Pedro Henrique Dias Valle"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "junho",
+      "titulo": "Classification of the growth level of fungal colonies in solid medium: A machine learning approach",
+      "tipo": "Article",
+      "evento_periodico": "Expert Systems with Applications",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Edgar de Souza Vismara",
+        "Lilian de Souza Vismara",
+        "José Luis Seixas Jr",
+        "Rafael Gomes Mantovani",
+        "Francisco Carlos Monteiro Souza"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "junho",
+      "titulo": "Artificial Intelligence in MOBA Games: A Multivocal Literature Mapping",
+      "tipo": "Article",
+      "evento_periodico": "IEEE Transactions on Games",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Lincoln Magalhães Costa",
+        "Anders Drachen",
+        "Francisco Carlos Monteiro Souza",
+        "Geraldo Xexéo"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "maio",
+      "titulo": "Uma análise de aplicativos de rastreamento de contato para identificar casos de Covid-19: um Mapeamento da Literatura Multivocal",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XVIII Simpósio Brasileiro de Sistemas Colaborativos",
+      "texto_completo": "privado",
+      "link": null,
+      "autores": [
+        "Jéssica Iara Pegorini",
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza",
+        "Luiz Carlos Pessoa Albini"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "maio",
+      "titulo": "Classificação de Textos Escolares com Aprendizado de Máquina",
+      "tipo": "Article",
+      "evento_periodico": "Computer on the Beach",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Nelson Dressler",
+        "Alinne C. Corrêa Souza",
+        "Francisco Carlos Monteiro Souza",
+        "Lincoln Magalhães Costa"
+      ]
+    },
+    {
+      "ano": 2023,
+      "mes": "maio",
+      "titulo": "An investigation of challenges in the machine learning lifecycle and the importance of MLOps: A survey",
+      "tipo": "Article",
+      "evento_periodico": "Computer on the Beach",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Bruno Faustino Amorim",
+        "Lincoln Magalhães Costa",
+        "Francisco Carlos Monteiro Souza",
+        "Alinne C. Corrêa Souza"
+      ]
+    },
+    {
+      "ano": 2022,
+      "mes": "maio",
+      "titulo": "Desenvolvimento de um Score para análise de risco de evasão de estudantes do Ensino Superior baseado em Aprendizado de Máquina",
+      "tipo": "Conference Paper",
+      "evento_periodico": null,
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/360476187_Desenvolvimento_de_um_Score_para_analise_de_risco_de_evasao_de_estudantes_do_Ensino_Superior_baseado_em_Aprendizado_de_Maquina",
+      "autores": [
+        "Robinson C. Da Cruz",
+        "Renato C. Juliano",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "dezembro",
+      "titulo": "DP-Symptom-Identifier: uma estratégia para classificar sintomas de depressão utilizando um conjunto de dados textuais na língua portuguesa",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XIII Symposium in Information and Human Language Technology",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/356727184_DP-Symptom-Identifier_uma_estrategia_para_classificar_sintomas_de_depressao_utilizando_um_conjunto_de_dados_textuais_na_lingua_portuguesa",
+      "autores": [
+        "Vinicius Casani",
+        "G. Rafael Mantovani",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "novembro",
+      "titulo": "Towards comprise the Design System Applicability: A Multivocal Literature Mapping",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XX Brazilian Symposium on Software Quality",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/357044935_Towards_comprise_the_Design_System_Applicability_A_Multivocal_Literature_Mapping",
+      "autores": [
+        "Sara Vendramini",
+        "Luana Belusso",
+        "Francisco Carlos Souza",
+        "Alinne C. C. Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "outubro",
+      "titulo": "Exploring toxic behavior in multiplayer online games: perceptions of different genders",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Brazilian Symposium on Computer Games and Digital Entertainment",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/355439660_Exploring_toxic_behavior_in_multiplayer_online_games_perceptions_of_different_genders",
+      "autores": [
+        "Alinne C. C. Souza",
+        "Jéssica Pegorini",
+        "Natália Yada",
+        "Lincoln Costa",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "outubro",
+      "titulo": "Segmentação de imagens de microrganismos para tarefas preditivas",
+      "tipo": "Conference Paper",
+      "evento_periodico": "VI Congresso de Ciência e Tecnologia da UTFPR-DV",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/355362192_Segmentacao_de_imagens_de_microrganismos_para_tarefas_preditivas",
+      "autores": [
+        "Lilian Vismara",
+        "Edgar Vismara",
+        "G. Rafael Mantovani",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "agosto",
+      "titulo": "Feature Analysis to League of Legends Victory Prediction on the Picks and Bans Phase",
+      "tipo": "Conference Paper",
+      "evento_periodico": "IEEE Conference on Games (CoG)",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/356873227_Feature_Analysis_to_League_of_Legends_Victory_Prediction_on_the_Picks_and_Bans_Phase",
+      "autores": [
+        "Lincoln Costa",
+        "G. Rafael Mantovani",
+        "Francisco Carlos Souza",
+        "Geraldo Xexéo"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "abril",
+      "titulo": "B-Model: Uma ferramenta para auxiliar estudantes com deficiência visual na modelagem de sistemas",
+      "tipo": "Article",
+      "evento_periodico": "Revista Eletrônica De Iniciação Científica Em Computação",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/355439573_B-Model_Uma_ferramenta_para_auxiliar_estudantes_com_deficiencia_visual_na_modelagem_de_sistemas",
+      "autores": [
+        "Pedro de Azevedo",
+        "Francisco Carlos Souza",
+        "Alinne C. C. Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "abril",
+      "titulo": "Parallel Testing in Behavior Driven Development",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XII Computer on the Beach",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/350819228_Parallel_Testing_in_Behavior_Driven_Development",
+      "autores": [
+        "Felipe De Amorim",
+        "Lincoln Costa",
+        "Rodolfo Silva",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2021,
+      "mes": "abril",
+      "titulo": "Investigating Fitness Functions for Search-based Requirements Prioritization",
+      "tipo": "Conference Paper",
+      "evento_periodico": "XII Computer on the Beach",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/350819145_Investigating_Fitness_Functions_for_Search-based_Requirements_Prioritization",
+      "autores": [
+        "Andrei Corezolla",
+        "Lincoln Costa",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "novembro",
+      "titulo": "Towards automated team composition in MOBA games based on players' personality: an intelligent approach",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Brazilian Symposium on Computer Games and Digital Entertainment - SBGames",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/345505121_Towards_automated_team_composition_in_MOBA_games_based_on_players'_personality_an_intelligent_approach",
+      "autores": [
+        "Lincoln Costa",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "novembro",
+      "titulo": "Search-based Test Data Generation for Mutation Testing: a tool for Python programs",
+      "tipo": "Conference Paper",
+      "evento_periodico": "IV Escola Regional de Engenharia de Software - ERES",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/345773744_Search-based_Test_Data_Generation_for_Mutation_Testing_a_tool_for_Python_programs",
+      "autores": [
+        "Matheus Ferreira",
+        "Lincoln Costa",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "novembro",
+      "titulo": "Utilização do Scrum no desenvolvimento de uma aplicação web: um Estudo de Caso",
+      "tipo": "Conference Paper",
+      "evento_periodico": "IV Escola Regional de Engenharia de Software - ERES",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/345773837_Utilizacao_do_Scrum_no_desenvolvimento_de_uma_aplicacao_web_um_Estudo_de_Caso",
+      "autores": [
+        "Thales Dal Molim",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "novembro",
+      "titulo": "Uma abordagem para auxiliar estudantes com deficiência visual na modelagem de sistemas: um estudo piloto",
+      "tipo": "Conference Paper",
+      "evento_periodico": "IV Escola Regional de Engenharia de Software - ERES",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/345768047_Uma_abordagem_para_auxiliar_estudantes_com_deficiencia_visual_na_modelagem_de_sistemas_um_estudo_piloto",
+      "autores": [
+        "Pedro Azevedo",
+        "Vinicius Vieira",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "setembro",
+      "titulo": "Identifying Depressive Profiles on Social Networks using Machine Learning: A Systematic Mapping",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Computer on the beach",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/344158962_Identifying_Depressive_Profiles_on_Social_Networks_using_Machine_Learning_A_Systematic_Mapping",
+      "autores": [
+        "Vinicius Casani",
+        "G. Rafael Mantovani",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "setembro",
+      "titulo": "Uma Abordagem para Reconhecimento de Placas de Perigo para Pessoas com Deficiência Visual",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Computer on the beach",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/344083857_Uma_Abordagem_para_Reconhecimento_de_Placas_de_Perigo_para_Pessoas_com_Deficiencia_Visual",
+      "autores": [
+        "Jailson Panizzon",
+        "Gabriel Lopes",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2020,
+      "mes": "agosto",
+      "titulo": "Using Symmetry to Enhance the Performance of Agent-based Epidemic Models",
+      "tipo": "Article",
+      "evento_periodico": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/343845431_Using_Symmetry_to_Enhance_the_Performance_of_Agent-based_Epidemic_Models",
+      "autores": [
+        "Gilberto M. Nakamura",
+        "Francisco Carlos Souza",
+        "Alinne C. Souza",
+        "Renato N. Bulcão",
+        "Alexandre Martinez S.",
+        "Alessandra A. Macedo"
+      ]
+    },
+    {
+      "ano": 2019,
+      "mes": "novembro",
+      "titulo": "An Analysis of Visual Speech Features for Recognition of Non-articulatory Sounds using Machine Learning",
+      "tipo": "Article",
+      "evento_periodico": "International Journal of Computer Applications",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/337296210_An_Analysis_of_Visual_Speech_Features_for_Recognition_of_Non-articulatory_Sounds_using_Machine_Learning",
+      "autores": [
+        "Francisco Carlos Souza",
+        "Alinne C. Souza",
+        "Carolina Watanabe",
+        "Patrícia Pupin Mandrá",
+        "Alessandra A. Macedo"
+      ]
+    },
+    {
+      "ano": 2019,
+      "mes": "outubro",
+      "titulo": "An Approach for Team Composition in League of Legends using Genetic Algorithm",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Brazilian Symposium on Computer Games and Digital Entertainment - SBGames",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/337260793_An_Approach_for_Team_Composition_in_League_of_Legends_using_Genetic_Algorithm",
+      "autores": [
+        "Lincoln Costa",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2019,
+      "mes": "outubro",
+      "titulo": "Requirements prioritization using search-based techniques: a systematic mapping",
+      "tipo": "Conference Paper",
+      "evento_periodico": "III Escola Regional de Engenharia de Software - ERES",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/337261168_Requirements_prioritization_using_search-based_techniques_a_systematic_mapping",
+      "autores": [
+        "Andrei Corezolla",
+        "Alinne C. C. Souza",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2018,
+      "mes": "dezembro",
+      "titulo": "An Evaluation of Ideal Features in Project Management Software Tools",
+      "tipo": "Article",
+      "evento_periodico": "Revista Perspectivas em Ciências Tecnológicas",
+      "texto_completo": "disponivel",
+      "link": "https://www.researchgate.net/publication/345733654_An_Evaluation_of_Ideal_Features_in_Project_Management_Software_Tools",
+      "autores": [
+        "Carlos Gabriel",
+        "Lucas Osse",
+        "Francisco Carlos Souza"
+      ]
+    },
+    {
+      "ano": 2018,
+      "mes": "abril",
+      "titulo": "Investigating the Recognition of Non-articulatory Sounds by Using Statistical Tests and Support Vector Machine",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Advances in Intelligent Systems and Computing",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Francisco Carlos Souza",
+        "Alinne C. Souza",
+        "Gilberto M. Nakamura",
+        "M. D. SOARES",
+        "Patrícia Pupin Mandrá",
+        "Alessandra A. Macedo"
+      ]
+    },
+    {
+      "ano": 2018,
+      "mes": "fevereiro",
+      "titulo": "Automatização de teste de software com ferramentas de software livre",
+      "tipo": "Book",
+      "evento_periodico": "1ed.Rio de Janeiro: Elsevier",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Marcio Delamaro",
+        "F. C. Ferrari",
+        "A. C. Maciel",
+        "Francisco C. Souza",
+        "Rarafel Oliveira",
+        "S. A. Andrade"
+      ]
+    },
+    {
+      "ano": 2017,
+      "mes": "março",
+      "titulo": "Automating Search Strings for Secondary Studies",
+      "tipo": "Conference Paper",
+      "evento_periodico": "Advances in Intelligent Systems and Computing",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Francisco Carlos Souza",
+        "Alinne Souza",
+        "Stevão Andrade",
+        "Rafael Durelli",
+        "Vinicius Durelli",
+        "Rafael Oliveira"
+      ]
+    },
+    {
+      "ano": 2016,
+      "mes": "maio",
+      "titulo": "Strong mutation-based test data generation using hill climbing",
+      "tipo": "Conference Paper",
+      "evento_periodico": "9th International Workshop on Search-Based Software Testing",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Francisco Carlos Souza",
+        "Mike Papadakis",
+        "Yves Le Traon",
+        "Marcio Delamaro"
+      ]
+    },
+    {
+      "ano": 2014,
+      "mes": "junho",
+      "titulo": "Test Data Generation Techniques for Mutation Testing: A Systematic Mapping",
+      "tipo": "Conference Paper",
+      "evento_periodico": "11th Experimental Software Engineering Latin American Workshop",
+      "texto_completo": "disponivel",
+      "link": null,
+      "autores": [
+        "Francisco Carlos Souza",
+        "Mike Papadakis",
+        "V. Durelli",
+        "Marcio Delamaro"
+      ]
+    }
+  ],
+  "estatisticas": {
+    "por_ano": {
+      "2025": 4,
+      "2024": 11,
+      "2023": 15,
+      "2022": 1,
+      "2021": 8,
+      "2020": 7,
+      "2019": 3,
+      "2018": 3,
+      "2017": 1,
+      "2016": 1,
+      "2014": 1
+    },
+    "por_tipo": {
+      "Conference Paper": 40,
+      "Article": 7,
+      "Preprint": 1,
+      "Chapter": 1,
+      "Book": 1
+    },
+    "texto_completo_disponivel": 35,
+    "texto_completo_privado": 11,
+    "texto_completo_nao_informado": 9
+  },
+  "lattes_url": "http://lattes.cnpq.br/0057958225738520"
+}
